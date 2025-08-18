@@ -11,7 +11,6 @@ import RemoveBg from "./pages/RemoveBackground";
 import RemoveObj from "./pages/RemoveObject";
 import ReviewResume from "./pages/ReviewResume";
 import Community from "./pages/Community";
-
 function App() {
   return (
     <div>
